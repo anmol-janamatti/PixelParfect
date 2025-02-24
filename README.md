@@ -1,2 +1,2 @@
 # PixelParfect
-Phtogrphy Firm Landing Page | CSS Mini Project
+Photogrphy Firm Landing Page | CSS Mini Project
